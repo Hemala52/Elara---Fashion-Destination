@@ -1,6 +1,8 @@
 # Elara- A Fashion Destination
 
-Welcome to Elara! This project is a comprehensive women's fashion store website . It features a user profile page, a login page with social media sign-up options, and various other functionalities tailored for a seamless shopping experience.
+Welcome to Elara! This project is a comprehensive women's fashion store website. It features a user profile page, a login page with social media sign-up options, and various other functionalities tailored for a seamless shopping experience.
+![Elara Homepage](path/to/image.png)
+
 
 ## Features
 
@@ -31,10 +33,8 @@ Welcome to Elara! This project is a comprehensive women's fashion store website 
 ### Installation
 
  Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/elara.git
-    ```
-
+    gh repo clone Hemala52/Elara-A-Fashion-Destination
+  
 ### Usage
 
 1. Open the `index.html` file in your web browser to view the login page.
