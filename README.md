@@ -1,6 +1,8 @@
 # Elara- A Fashion Destination
 
 Welcome to Elara! This project is a comprehensive women's fashion store website. It features a user profile page, a login page with social media sign-up options, and various other functionalities tailored for a seamless shopping experience.
+
+
 ![Elara Homepage](https://github.com/Hemala52/Elara-A-Fashion-Destination/blob/main/Elara%20-%20A%20Fashion%20Destination/website-demo-image/Demo%20image.png)
 
 
