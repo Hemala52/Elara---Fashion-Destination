@@ -35,7 +35,9 @@ Welcome to Elara! This project is a comprehensive women's fashion store website.
 ### Installation
 
  Clone the repository:
-    gh repo clone Hemala52/Elara-A-Fashion-Destination
+  ```sh
+  gh repo clone Hemala52/Elara-A-Fashion-Destination
+```
   
 ### Usage
 
